@@ -1,5 +1,6 @@
 ﻿pipeline {
     agent any
+     // some
     stages {
         stage('Docker image Build') {
             steps {
